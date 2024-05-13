@@ -1,0 +1,24 @@
+@import "bootstrap/scss/bootstrap";
+
+.nav-link:hover {
+    color:rgb(41, 133, 214);
+}
+
+.part, .card-title, .why-us{
+    color:rgb(213, 209, 209);
+}
+
+.top-page, .footer {
+    color: gray;
+}
+
+.card-text{
+    color:rgb(185, 183, 183);
+}
+
+#linear-text{
+    background: linear-gradient(to bottom, rgb(41,133,214),gray);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
